@@ -1,0 +1,18 @@
+# ===== SISTEMA OPERACIONAL =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== TEMPORÁRIOS =====
+*~
+
+# ===== LOGS =====
+*.log
+
+# ===== NODE / FIREBASE =====
+node_modules/
+.firebase/
+
+# ===== FLUTTER =====
+.build/
+.dart_tool/
